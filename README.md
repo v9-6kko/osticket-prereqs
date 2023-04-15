@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- VC_redist.x86.exe -> https://drive.google.com/file/d/189TGgfAQ9o-qJNKx6SZN7Z8Su1mQDUZ5/view?usp=share_link
+- rewrite_amd64_en-US.msi -> https://drive.google.com/file/d/1dUWr3YtxejZfSDks4sW8XHX3tGLByXCI/view?usp=share_link
+- PHP-7.3.8-nts-Win32-VC15-x86.zip -> https://drive.google.com/file/d/1tE_cpWWOm7x-oyP7b18Mxfoznfj-0GcP/view?usp=share_link
+- PHPManagerForIIS_V1.5.0.msi -> https://drive.google.com/file/d/14lAfYgcgM2TdJsCGy09mQRl4knW10mVy/view?usp=share_link
+- mysql-5.5.62-win32.msi -> https://drive.google.com/file/d/1AYckc_0Fx3Vw8Ce-pRv_CUSRMsZTYDFm/view?usp=share_link
 
 <h2>Installation Steps</h2>
 
