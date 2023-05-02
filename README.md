@@ -28,6 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - PHPManagerForIIS_V1.5.0.msi -> https://drive.google.com/file/d/14lAfYgcgM2TdJsCGy09mQRl4knW10mVy/view?usp=share_link
 - mysql-5.5.62-win32.msi -> https://drive.google.com/file/d/1AYckc_0Fx3Vw8Ce-pRv_CUSRMsZTYDFm/view?usp=share_link
 - HeidiSQL_12.3.0.6589_Setup.exe -> https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe 
+- osTicket -> https://drive.google.com/file/d/1SFwuU5XzCUQkwWZzSgU5-R5fPa7se5Fj/view?usp=sharing
 
 <h2>Installation Steps</h2>
 
