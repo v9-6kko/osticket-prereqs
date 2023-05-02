@@ -27,6 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - PHP-7.3.8-nts-Win32-VC15-x86.zip -> https://drive.google.com/file/d/1tE_cpWWOm7x-oyP7b18Mxfoznfj-0GcP/view?usp=share_link
 - PHPManagerForIIS_V1.5.0.msi -> https://drive.google.com/file/d/14lAfYgcgM2TdJsCGy09mQRl4knW10mVy/view?usp=share_link
 - mysql-5.5.62-win32.msi -> https://drive.google.com/file/d/1AYckc_0Fx3Vw8Ce-pRv_CUSRMsZTYDFm/view?usp=share_link
+- HeidiSQL_12.3.0.6589_Setup.exe -> https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe 
 
 <h2>Installation Steps</h2>
 
