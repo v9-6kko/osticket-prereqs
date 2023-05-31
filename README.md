@@ -43,7 +43,7 @@ Let’s begin with PHP Manager for IIS. Once you’ve installed it, run the file
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/VLNrckyL/31.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Press next, read through the license agreement, allow it to install and then close it.
