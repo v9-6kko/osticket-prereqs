@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Before we begin, there are prerequisite files that must be installed. Fortunately all the files and programs needed have been provided, with links in this guide. 
 
 <p>
-<img src="https://i.postimg.cc/3wsVFvkn/1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/59gYGFRR/30.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Let’s begin with PHP Manager for IIS. Once you’ve installed it, run the file. You should be greeted by this screen.
