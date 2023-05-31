@@ -86,7 +86,7 @@ Read through the license agreement, and then click Install. Once setup is succes
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/FKwgYJ4Z/3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First, we will create a new directory on the C: drive. Navigate to your C: drive within File Explorer, and create a new folder called "PHP"
@@ -94,7 +94,7 @@ First, we will create a new directory on the C: drive. Navigate to your C: drive
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/PJjW4sNv/4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We will also need to enable a few extra features in order to open osTicket. Pressing the Windows key, navigate to your control panel by searching for it. Once you have the control panel open, click on "Programs"
@@ -102,7 +102,7 @@ We will also need to enable a few extra features in order to open osTicket. Pres
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/gJRy8kcP/5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.postimg.cc/sXZ1RTtp/6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.postimg.cc/t4SzHMv8/7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 With Programs open, select "Turn Windows features on or off". Once on this screen we will be enabling the features: "Internet Information Services", "World Wide Web Services", "Application Development Features", "CGI". 
