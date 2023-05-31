@@ -51,7 +51,7 @@ Press next, read through the license agreement, allow it to install and then clo
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/cLgvrk4p/33.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After this we will install the IIS URL Rewrite Module. Download from the provided link, and run the file. You should be greeted by this screen.
@@ -60,7 +60,7 @@ After this we will install the IIS URL Rewrite Module. Download from the provide
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/L8cnfkJn/34.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once again, read through the license agreement and allow it to install. Once done, press Finish.
@@ -68,7 +68,7 @@ Once again, read through the license agreement and allow it to install. Once don
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/XqYJ3QzD/image-20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next we need to install Microsoft Visual C++ 2015-2022. Download and open the file. You should see this screen.
@@ -77,7 +77,7 @@ Next we need to install Microsoft Visual C++ 2015-2022. Download and open the fi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/B6g6ddMK/image-19.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Read through the license agreement, and then click Install. Once setup is successful, we can move on to the steps of setting up osTicket.
