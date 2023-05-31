@@ -60,7 +60,7 @@ After this we will install the IIS URL Rewrite Module. Download from the provide
 <br />
 
 <p>
-<img src="https://i.postimg.cc/VLNrckyL/31.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.postimg.cc/L60q4FRk/32.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/VLNrckyL/31.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> + <img src="https://i.postimg.cc/L60q4FRk/32.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once again, read through the license agreement and allow it to install. Once done, press Finish.
