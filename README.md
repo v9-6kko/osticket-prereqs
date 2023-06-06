@@ -110,19 +110,13 @@ With Programs open, select "Turn Windows features on or off". Once on this scree
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/ZYxpSQCj/19.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.postimg.cc/GtKyx4Z6/20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-Now that the PHP folder has been created, we will extract the contents of “PHP-7.3.8-nts-Win32-VC15-x86.zip” into it.
+Now that the PHP folder has been created, we will extract the contents of “PHP-7.3.8-nts-Win32-VC15-x86.zip” into it. Open the zip file, select extract, and then finally the C:PHP folder.
 
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Open the zip file, select extract, and then finally the C:PHP folder.
 
 </p>
 <br />
