@@ -110,7 +110,7 @@ With Programs open, select "Turn Windows features on or off". Once on this scree
 <br />
 
 <p>
-<img src="https://i.postimg.cc/ZYxpSQCj/19.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/WbynP4nm/19.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.postimg.cc/GtKyx4Z6/20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
