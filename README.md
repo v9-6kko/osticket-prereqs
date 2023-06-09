@@ -358,7 +358,7 @@ Once created, return to the Database Settings on the osTicket website and fill i
 <br />
 
 <p>
-<img src="https://i.postimg.cc/50N1FjSX/image-36.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/MW1GNQcm/image-36.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Click Install Now, and afterwards you should see this screen. Congratulations! You’ve now installed osTicket!
