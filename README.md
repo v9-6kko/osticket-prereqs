@@ -179,7 +179,7 @@ Create a Start Menu Folder and press next.
 <br />
 
 <p>
-<img src="https://i.postimg.cc/264v3cTk/17.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/y80xf5dW/17.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 On the Additional Task screen, leave everything as it appears by default and press next.
@@ -187,7 +187,7 @@ On the Additional Task screen, leave everything as it appears by default and pre
 <br />
 
 <p>
-<img src="https://i.postimg.cc/264v3cTk/17.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/7hwzz3Qg/18.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Accept the agreement, and finish installation
@@ -212,7 +212,7 @@ Now that we have IIS open, we will need to set some things up first. Open up “
 <br />
 
 <p>
-<img src="https://i.postimg.cc/Bbmj1dF0/24.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/qvDb5m5V/24.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Select the path to the php executable file. This will be located in the directory we’ve created earlier. (C:\PHP)
@@ -265,11 +265,10 @@ Open the osTicket folder and then the include folder. Find the file titled “os
 <br />
 
 <p>
-<img src="https://i.postimg.cc/kMTGwPVr/image-23.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/kMTGwPVr/image-23.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once it’s been renamed we’ll be assigning permissions to it. Right click, select properties, and then security. Click “Advanced”
-
 </p>
 <br />
 
