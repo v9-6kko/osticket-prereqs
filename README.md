@@ -341,7 +341,7 @@ Click Skip and you should see a screen like this. Enter your username which is r
 <br />
 
 <p>
-<img src="[https://i.postimg.cc/L6rH092W/image-29.png](https://postimg.cc/VdWQJcS9)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/CM8N4M0g/image-29.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Right click the left sidebar, and select “Create new”>”Database”. Title this new database “osticket”.
